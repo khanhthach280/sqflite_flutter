@@ -4,6 +4,12 @@ class Note {
   String description;
   int categoryId; // Foreign key
 
+
+
+
+  // khanh test commit
+  
+
   Note({
     this.id,
     required this.title,
